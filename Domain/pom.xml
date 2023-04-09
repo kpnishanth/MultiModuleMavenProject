@@ -18,7 +18,7 @@
         <project.scm.id>gitHub</project.scm.id>
     </properties>
     <scm>
-        <developerConnection>git@github.com:kpnishanth/MultiModuleMavenProject.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:kpnishanth/MultiModuleMavenProject.git</developerConnection>
     </scm>
     <distributionManagement>
         <repository>
