@@ -21,6 +21,16 @@
     <scm>
         <developerConnection>scm:git:git@github.com:kpnishanth/MultiModuleMavenProject.git</developerConnection>
     </scm>
+    <distributionManagement>
+        <repository>
+            <id>ppackagecloud.Release</id>
+            <url>packagecloud+https://packagecloud.io/kpnishanth/MultiModuleRelease</url>
+        </repository>
+        <snapshotRepository>
+            <id>packagecloud.Snapshot</id>
+            <url>packagecloud+https://packagecloud.io/kpnishanth/MultiModuleSnapShot</url>
+        </snapshotRepository>
+    </distributionManagement>
     <build>
         <extensions>
             <extension>
