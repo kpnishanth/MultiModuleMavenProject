@@ -18,6 +18,9 @@
         <maven.compiler.target>19</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+    <scm>
+        <developerConnection>scm:git:git@github.com:kpnishanth/MultiModuleMavenProject.git</developerConnection>
+    </scm>
     <build>
         <extensions>
             <extension>
