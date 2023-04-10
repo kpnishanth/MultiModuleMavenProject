@@ -24,11 +24,11 @@
     <distributionManagement>
         <repository>
             <id>ppackagecloud.Release</id>
-            <url>packagecloud+https://packagecloud.io/kpnishanth/MultiModuleRelease</url>
+            <url>packagecloud+https://packagecloud.io/kpnishanth/NishanthMultiModule</url>
         </repository>
         <snapshotRepository>
             <id>packagecloud.Snapshot</id>
-            <url>packagecloud+https://packagecloud.io/kpnishanth/MultiModuleSnapShot</url>
+            <url>packagecloud+https://packagecloud.io/kpnishanth/NishanthMultiModule</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
