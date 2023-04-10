@@ -23,7 +23,7 @@
     </scm>
     <distributionManagement>
         <repository>
-            <id>ppackagecloud.Release</id>
+            <id>packagecloud.Release</id>
             <url>packagecloud+https://packagecloud.io/kpnishanth/NishanthMultiModule</url>
         </repository>
         <snapshotRepository>
